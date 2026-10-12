@@ -13,6 +13,7 @@
 * **🔄 Dynamic Auto-Flip:** When fighting on narrow, exposed bridges with void on both sides, the algorithm automatically alternates flick directions (left, right, left) to mimic legitimate, unpredictable gameplay.
 
 * **🥷 100% Silent Execution:** Operates entirely in the background via event hooks. No chat spam, no debug logs, and strictly no Mixin injections.
+![HitFlick GUI](gui.png)
 
 ## 🚀 Installation
 
